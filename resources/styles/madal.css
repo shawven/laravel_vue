@@ -1,0 +1,46 @@
+.ivu-message {
+    font-size: 14px;
+}
+.ivu-message .ivu-icon{
+    font-size: 16px;
+}
+.ivu-modal-confirm-body {
+    font-size: 14px;
+}
+.ivu-modal-confirm-footer {
+    margin-top: 20px;
+}
+.top-modal .ivu-modal-mask {
+    z-index: 1003;
+}
+.top-modal .ivu-modal-wrap {
+    z-index: 1003;
+}
+.third-modal .ivu-modal-mask {
+    z-index: 1002;
+}
+.third-modal .ivu-modal-wrap {
+    z-index: 1002;
+}
+.second-modal .ivu-modal-mask {
+        z-index: 1001;
+}
+.second-modal .ivu-modal-wrap {
+        z-index: 1001;
+}
+.v-transfer-dom .ivu-modal-wrap{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.v-transfer-dom .ivu-modal{
+  top: 0;
+}
+.vertical-center-modal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.vertical-center-modal .ivu-modal{
+    top: 0;
+}

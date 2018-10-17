@@ -1,0 +1,5 @@
+build
+router.js
+resources/views/my-components/text-editor/tinymce
+resources/vendors
+resources/libs/table2excel.js
