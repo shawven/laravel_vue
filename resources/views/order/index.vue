@@ -263,6 +263,7 @@
                     this.showToDraw = false;
                     this.showDrawState = false;
                     this.searchItem.to_draw = '';
+
                     this.searchItem.state = '';
                 }
             }
